@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity & SOC Learning Journey
+#  Cybersecurity & SOC Learning Journey
 
 > Documenting my path from backend developer to SOC analyst: notes, labs, write-ups, and projects.
 
@@ -8,9 +8,9 @@
 [![LetsDefend](https://img.shields.io/badge/LetsDefend-nohaa3mr-blue)](https://app.letsdefend.io/user/nohaa3mr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nohaamr710-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nohaamr710)
 
-## 👋 About This Repo
-
-I'm a Computer Science student (graduating 2027) with a backend .NET background, now building skills in defensive security. This repo tracks what I learn, what I practice, and what I build, so everything here is backed by hands-on work, not just theory.
+## About This Repo
+ 
+ building skills in defensive security. This repo tracks what I learn, what I practice, and what I build, so everything here is backed by hands-on work, not just theory.
 
 **Goal:** [e.g. Junior SOC Analyst / Security Engineer role by 2027]
 **Currently learning:** LetsDefend SOC Analyst path (alert triage, log analysis, incident response)
@@ -56,9 +56,9 @@ I'm a Computer Science student (graduating 2027) with a backend .NET background,
 
 | Date | Platform | Lab / Room | Skills Practiced | Write-up |
 |------|----------|-----------|------------------|----------|
-| 2026-10 | TryHackMe | Linux Fundamentals Part 1 | Shell navigation, files | [link](./labs/thm-linux-fundamentals-1.md) |
-| 2026-10 | TryHackMe | Linux Fundamentals Part 2 | Permissions, processes | [link](./labs/thm-linux-fundamentals-2.md) |
-| 2026-10 | TryHackMe | Linux Fundamentals Part 3 | Services, logs, automation | [link](./labs/thm-linux-fundamentals-3.md) |
+| 2026-10 | TryHackMe | Linux Fundamentals Part 1 | Shell navigation, files |
+| 2026-10 | TryHackMe | Linux Fundamentals Part 2 | Permissions, processes |
+| 2026-10 | TryHackMe | Linux Fundamentals Part 3 | Services, logs, automation |
 
 **Each write-up should follow this structure:** Objective → Tools → Steps → Findings → What I learned.
 
@@ -71,7 +71,7 @@ I'm a Computer Science student (graduating 2027) with a backend .NET background,
 | Network analysis | Wireshark (PCAP analysis, LetsDefend course) |
 | Operating systems | Linux CLI (TryHackMe), Windows CLI tools |
 | SIEM / alerts | LetsDefend alert investigation (training) |
-| *(add as you learn)* | Splunk, Wazuh, Sysmon, VirusTotal... |
+| Splunk, Wazuh, Sysmon, VirusTotal |
 
 ----------|-------|
 | SIEM | Splunk, Wazuh *(only list what you've actually used)* |
@@ -82,13 +82,9 @@ I'm a Computer Science student (graduating 2027) with a backend .NET background,
 
 ---
 
-## 🧩 Projects
+## in progress Projects
 
-### [Project name, e.g. Home SOC Lab]
-- **What:** One sentence.
-- **Stack:** Wazuh + Sysmon + Windows VM
-- **Result:** What it detected / what you learned.
-- **Link:** [repo](#)
+### 
 
 ---
 
@@ -96,7 +92,7 @@ I'm a Computer Science student (graduating 2027) with a backend .NET background,
 
 - ✅ LetsDefend: Cybersecurity for Students (learning path), [add credential link]
 - 🔄 LetsDefend: SOC Analyst path, in progress
-- 🎯 [Target cert, e.g. Security+ / BTL1], target [month/year]
+- 🎯 [Target cert, e.g. Security+ / BTL1], target [april/2027]
 
 ---
 
@@ -109,9 +105,3 @@ I'm a Computer Science student (graduating 2027) with a backend .NET background,
 ├── cheatsheets/  # Quick references
 └── README.md
 ```
-
----
-
-## 📫 Connect
-
-[LinkedIn](https://www.linkedin.com/in/nohaamr710) · [TryHackMe](https://tryhackme.com/p/nohaabdulaziz373) · [LetsDefend](https://app.letsdefend.io/user/nohaa3mr) · [Email](mailto:you@example.com)
